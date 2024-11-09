@@ -33,7 +33,7 @@ A Python tool that organizes files into categorized folders based on file extens
     ".png": "ImageFiles",
     ".docx": "DocumentFiles"
 }
-```
+
 
 ## Usage
 **1. Set Up Folder Paths:**
