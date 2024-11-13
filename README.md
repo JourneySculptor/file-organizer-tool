@@ -2,6 +2,18 @@
 
 A Python tool that organizes files into categorized folders based on file extensions, with customizable settings and logging for error tracking.
 
+# File Organizer Tool
+
+## Project Status
+This project is part of my Python learning journey. I'm currently focused on understanding and improving file management, JSON configuration handling, and logging in Python. As I enhance my skills, I plan to gradually refine this project’s functionality and structure.
+
+### Planned Improvements
+- **Enhanced Error Handling**: Improve the script’s handling of unsupported or inaccessible files.
+- **Configuration Options**: Add support for more dynamic configuration options within the JSON file.
+- **User Feedback**: Add console output for a clearer summary of actions taken during file organization.
+
+Thank you for your understanding as I continue to learn and improve this project. Any suggestions or feedback are welcome!
+
 ## Features
 - **Organize Files by Extension**: Automatically moves files into designated folders based on their file extensions.
 - **Customizable Extension Settings**: Allows for custom extension-to-folder mappings via a JSON configuration file.
